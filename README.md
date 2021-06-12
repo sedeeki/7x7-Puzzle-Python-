@@ -1,4 +1,4 @@
-# 7x7-Puzzle-Java-
+# 7x7-Puzzle-Python-
 7x7 Puzzle Solution Python
 
 The problem is to find 7 integers that which are not in the same row and column of each other.                                             
